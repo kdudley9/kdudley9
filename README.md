@@ -2,7 +2,6 @@
 - 🌱 **I’m currently learning**: Java, C, and Spring Framework<br>
 - 🤔 **Looking for work**: I am currently looking for internship and co-op opportunites <br>
 - 📫 **How to reach me**: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](kennethdudley18@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kennethdudley18)
 
 <!---
